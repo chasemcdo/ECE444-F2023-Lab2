@@ -1,5 +1,7 @@
 This repo is a clone of [this repo](https://github.com/varadbhogayata/varadbhogayata.github.io)
 
+Deployed using vercel to [https://ece-444-f2023-lab2.vercel.app](https://ece-444-f2023-lab2.vercel.app)
+
 # Activity 1
 ![Activity 1](screenshots/a1.png)
 
